@@ -16,15 +16,13 @@ Leading a team👥 with a plan📊 or a being lone wolf 🐺 pulling an all nigh
 </p>
 
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <summary><strong>Things that I'm working on right now!</strong></summary>
  <ul>
-   <li> Efficient system designing </li>
-   <li> Working with Clojure </li>
-   <li> Playing around with GCP </li>
-   <li> Building <a href="https://namelss.com">Namelss</a> </li>
-   <li> Blogging at <a href="https://mytrashcode.com">MTC</a> </li>
-   <li> React Native development</li>
-   <li> Kubernetes</li>
+   <li> Building/Architecting a high performing PWA/Webapp for upGrad's LMS. </li>
+   <li> Learning and Reaserching on Digital Products (baby steps to becomming a PM)</li>
+   <li> Learning Golang. </li>
+   <li> Building a Online Timed Assessments and Quizes for upGrad. </li>
+   <li> Building a Minimal Design System</li>
   </ul>
 </details>
 
