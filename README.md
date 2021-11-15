@@ -1,12 +1,16 @@
 ### Hello World 👋
 
-I architect solutions to products for a living👨🏽‍💻. A full stack engineer and a product designer👨🏽‍🎨. I believe in solving any problem to get work done.
+![chaos.gif](https://media1.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif?cid=ecf05e478gbpnf3m2vxf0y5t5831rcrbbgx5rars4s2p8nin&rid=giphy.gif&ct=g)
 
-I lead the engineering effort for assessments in upGrad owning few services myself. Avid Scrum believer myself, I'm a Scrum Master for the wider Assessments and Grading Team.
+# Trying to build all kinds of components in different ways.
+
+## Corporate-ish bio
+
+I architect solutions to products for a living👨🏽‍💻. A full stack engineer and a product designer👨🏽‍🎨. I believe in solving users problem to get work done.
 
 I've worked on various products such as Advertising, F&B 🍕, e-commerce🛒, video 🎞️, ERP🏗️, Search🔎 and now Ed Tech!👨‍🎓. I've also worked from startups to enterprises.
 
-Leading a team👥 with a plan📊 or a being lone wolf 🐺 pulling an all nighter for a release, I've been there done that. I've been coding since my 4th grade and I've worked with web and built, solved, hacked and engineered solutions in all shapes and sizes, So you can count on me to get it done with the📈🕓 needle moving📈.
+Leading a team👥 with a plan📊 or a being lone wolf 🐺 pulling an all nighter for a release, I've been there done that. I've been coding since my 4th grade and I've worked with web and built, solved, hacked and engineered solutions in all shapes and sizes, So you can count on me to get it done with th needle moving📈.
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/thearvindnarayan/"><img height="30" src="https://media-exp1.licdn.com/dms/image/C5103AQF67HSujVz8Cg/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=MjLtujPsMtnGTV_zSnalE_L0sYyGXH2uWcr2G5mUcOU"></a>&nbsp;&nbsp;
@@ -25,6 +29,3 @@ Leading a team👥 with a plan📊 or a being lone wolf 🐺 pulling an all nigh
    <li> Building a Minimal Design System</li>
   </ul>
 </details>
-
-![arvind's github stats](https://github-readme-stats.vercel.app/api?username=thearvindnarayan&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearvindnarayan&layout=compact&hide_border=true)
