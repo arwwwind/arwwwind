@@ -4,6 +4,10 @@
 
 &nbsp;
 
+<a href="https://app.daily.dev/thearvindnaraya"><img src="https://api.daily.dev/devcards/ba04a78a24424cefb9819e40bd8e81c2.png?r=zs2" width="400" alt="Arvind Narayan's Dev Card"/></a>
+
+&nbsp;
+
 # Trying to build all kinds of components in different ways.
 
 ## About Me
